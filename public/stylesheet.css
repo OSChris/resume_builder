@@ -1,0 +1,76 @@
+#main {
+  width: 80%;
+  margin: 5% auto;
+}
+label {
+  margin-right: 8px;
+}
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
+
+header {
+  text-align: center;
+}
+table {
+  margin: 10px auto;
+}
+img {
+  max-height: 125px;
+  max-width: 125px;
+}
+
+#main {
+  text-align: center;
+  width: 80%;
+  margin: 5% auto;
+}
+
+footer {
+  text-align: center;
+}
+
+nav a {
+  color: #888;
+  border: 1px solid;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px;
+  padding: 3px 3px;
+}
+
+nav a:hover {
+  color: black;
+}
+
+table {
+  border: 1px solid;
+}
+
+table th {
+  border: 1px solid;
+}
+
+table td {
+  border: 1px solid;
+}
+
+#resume {
+  width: 70%;
+  margin: auto;
+  text-align: left;
+  max-width: 70%;
+}
+
+#profile-image {
+  border: 2px solid;
+  float: left;
+  margin-right: 40px;
+}
+
+#profile-image img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+
